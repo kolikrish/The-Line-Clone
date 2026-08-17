@@ -10,7 +10,7 @@ const DenimVF = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Awwwards SOTM",
+  title: "The Line Clone",
   description: "Pixel Perfect clone of an awwwards 'Site of the month'",
 };
 export default function RootLayout({
